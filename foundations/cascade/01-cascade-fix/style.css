@@ -42,3 +42,7 @@ div.text {
   font-weight: 800;
   font-size: 14px;
 }
+
+* {
+  outline: 1px solid red;
+}
